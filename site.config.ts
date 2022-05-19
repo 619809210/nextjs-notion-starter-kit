@@ -20,8 +20,6 @@ export default siteConfig({
   twitter: '11',
   github: '22',
   linkedin: '33',
-  weibo: '44',
-  bilibili: '55',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
